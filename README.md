@@ -1,10 +1,10 @@
-🎮 Super Trunfo - Países (Cadastro de Cartas)
+# 🎮 Super Trunfo - Países (Cadastro de Cartas)
 
 Projeto acadêmico desenvolvido em linguagem C com o objetivo de praticar conceitos básicos de programação por meio da criação de um sistema simples de cadastro de cartas para um jogo estilo Super Trunfo, utilizando o tema "Países".
 
 O sistema permite ao usuário cadastrar informações de cidades via terminal e exibe os dados de forma organizada.
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 Cadastro de cartas de cidades
 
@@ -28,7 +28,7 @@ PIB per capita
 
 Número de pontos turísticos
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 Linguagem C
 
@@ -36,7 +36,7 @@ Compilador GCC
 
 Terminal / Prompt de Comando
 
-▶️ Como Executar o Projeto
+## ▶️ Como Executar o Projeto
 
 Clone este repositório
 
@@ -52,7 +52,7 @@ Execute:
 
 (ou no Windows: super_trunfo.exe)
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Praticar:
 
@@ -66,7 +66,7 @@ Organização de código
 
 Projeto desenvolvido como atividade acadêmica no curso de Análise e Desenvolvimento de Sistemas.
 
-📚 Próximos Passos (Evolução Futura)
+## 📚 Próximos Passos (Evolução Futura)
 
 Implementar cálculos automáticos (densidade populacional e PIB per capita)
 
@@ -74,7 +74,7 @@ Permitir comparação entre cartas
 
 Modularizar o código em funções
 
-👤 Autor
+## 👤 Autor
 
 Thiago Hermes Martins Roque
 Curso: Análise e Desenvolvimento de Sistemas
