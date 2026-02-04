@@ -6,49 +6,47 @@ O sistema permite ao usuário cadastrar informações de cidades via terminal e 
 
 ## 📌 Funcionalidades
 
-Cadastro de cartas de cidades
+- Cadastro de cartas de cidades
 
-Leitura de dados pelo terminal
+- Leitura de dados pelo terminal
 
-Exibição organizada das informações
+- Exibição organizada das informações
 
-Armazenamento de:
+- Armazenamento de:
 
-Estado
+  - Estado
 
-Código da carta
+  - Código da carta
 
-Nome da cidade
+  - Nome da cidade
 
-População
+  - População
 
-Área
+  - Área
 
-PIB per capita
+  - PIB per capita
 
-Número de pontos turísticos
+  - Número de pontos turísticos
 
 ## 🛠 Tecnologias Utilizadas
 
-Linguagem C
+- Linguagem C
 
-Compilador GCC
+- Compilador GCC
 
-Terminal / Prompt de Comando
+- Terminal / Prompt de Comando
 
 ## ▶️ Como Executar o Projeto
 
-Clone este repositório
+1. Clone este repositório
 
-Compile o arquivo:
+2. Compile o arquivo:
 
-gcc main.c -o super_trunfo
+"gcc main.c -o super_trunfo"
 
+3. Execute:
 
-Execute:
-
-./super_trunfo
-
+"./super_trunfo"
 
 (ou no Windows: super_trunfo.exe)
 
@@ -56,23 +54,23 @@ Execute:
 
 Praticar:
 
-Lógica de programação
+- Lógica de programação
 
-Tipos de dados
+- Tipos de dados
 
-Entrada e saída de informações
+- Entrada e saída de informações
 
-Organização de código
+- Organização de código
 
 Projeto desenvolvido como atividade acadêmica no curso de Análise e Desenvolvimento de Sistemas.
 
 ## 📚 Próximos Passos (Evolução Futura)
 
-Implementar cálculos automáticos (densidade populacional e PIB per capita)
+- Implementar cálculos automáticos (densidade populacional e PIB per capita)
 
-Permitir comparação entre cartas
+- Permitir comparação entre cartas
 
-Modularizar o código em funções
+- Modularizar o código em funções
 
 ## 👤 Autor
 
